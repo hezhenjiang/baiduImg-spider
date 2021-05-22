@@ -20,4 +20,4 @@ widows安装nodejs14  gitbash测试成功
 
 运行指令为：
 
-node .\baidu-img.js --word=反光衣 --num=1000 --dir=./dataset1/反光衣 --delay=200
+node ./baidu-img.js --word=安全帽 --num=10 --dir=./myimg --delay=300
